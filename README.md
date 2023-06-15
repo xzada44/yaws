@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Improve Coral Edge TPU guide (#8160)
