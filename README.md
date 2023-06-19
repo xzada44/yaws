@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Improve Docs arguments tables (#8415)
