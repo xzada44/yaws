@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Update Twitter icon in Docs (#7711)
