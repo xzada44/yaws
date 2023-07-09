@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+* fix for predicting with batch_size > 1
