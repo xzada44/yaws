@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+New test for labels and crops (#8861)
