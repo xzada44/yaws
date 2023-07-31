@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
