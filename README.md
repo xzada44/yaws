@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Improve Coral Edge TPU guide (#8160)
