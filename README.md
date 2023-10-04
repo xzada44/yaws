@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Fix RTDETR generate anchor grid out of boundary (#7247)
