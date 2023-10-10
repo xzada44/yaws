@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
