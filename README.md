@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+add yolov10
