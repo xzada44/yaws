@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
