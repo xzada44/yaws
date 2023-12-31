@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
