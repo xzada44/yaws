@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Update CITATION.cff with cffinit corrections (#8658)
