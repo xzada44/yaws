@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Hold failed upload metrics and upload with next upload metrics (#8513)
