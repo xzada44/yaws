@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
