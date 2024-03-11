@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Improve Docs arguments tables (#8415)
