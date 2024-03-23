@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
