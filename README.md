@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Updated SQL Query Plot Code (#8120)
