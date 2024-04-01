@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Pass callbacks to validator (#7320)
