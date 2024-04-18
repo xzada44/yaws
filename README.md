@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add YOLOv8 LibTorch C++ inference example (#7090)
