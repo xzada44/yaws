@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
