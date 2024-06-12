@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
