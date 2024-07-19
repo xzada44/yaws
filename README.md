@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Feature: Create HUB Models from CLI or Python Script (#7316)
