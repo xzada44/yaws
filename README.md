@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update CITATION.cff with cffinit corrections (#8658)
