@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Update fraction arg to employ a random selection (#8234)
