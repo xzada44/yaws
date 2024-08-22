@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Update Colab notebook for YOLOv8.1 (#8660)
