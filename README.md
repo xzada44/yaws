@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add TensorBoard Docs integrations page (#7248)
