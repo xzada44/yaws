@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
