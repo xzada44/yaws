@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
