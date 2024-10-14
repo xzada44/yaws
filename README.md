@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Remove unused variables (#8511)
