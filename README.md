@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add simple-utilities.md Docs page (#8269)
