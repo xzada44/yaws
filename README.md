@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
