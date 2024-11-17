@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
